@@ -1,0 +1,8 @@
+# XAMPP/PHP specific
+.idea/
+.vscode/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.log
